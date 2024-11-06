@@ -1,3 +1,3 @@
 ## Hi there, I'm Kalle! 👋
 
-I love teaching about software development and writing code.
+I'm passionate about teaching the art of software development and bringing the user's needs to life through code.
